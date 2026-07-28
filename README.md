@@ -12,9 +12,6 @@ I'm a Computer Science student at **Universidad Carlos III**. I'm still building
 - 💬 Interested in: **Cibersecurity and Low Level**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-hern%C3%A1ndez-sanz-54bb46391/)**
 
-### 📌 A few of my projects
-
-
 ---
 
 ### 📊 My activity
